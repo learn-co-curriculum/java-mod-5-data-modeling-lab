@@ -35,7 +35,7 @@ Pick one of the following problem domains:
    One or more mechanics may work on the vehicle during the appointment.  Data about each
    mechanic includes their name, date of hire, and social security number.
 3. Airline flight scheduling database:    
-   An airline flight has a scheduled departure and arrival data and time, and reserves
+   An airline flight has a scheduled departure and arrival date and time, and reserves
    a specific aircraft to be flown from a departure airport to a destination airport.
    Airports are identified with a unique 3 character code called an IATA location identifier,
    such as ORD for Chicago O'Hare Airport or BOS for Boston Logan Airport.
