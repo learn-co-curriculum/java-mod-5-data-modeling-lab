@@ -1,5 +1,8 @@
-public class Main {
+package org.example;
+
+public class JpaCreate {
     public static void main(String[] args) {
-        // your code here
+
+
     }
 }
